@@ -1,2 +1,2 @@
 # bookkeepping-wxpy
-记账小程序
+记账微信小程序
